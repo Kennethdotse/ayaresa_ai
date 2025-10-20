@@ -33,14 +33,6 @@ This repository runs a Gradio app that uses the MedGemma model with optional RAG
      ```bash
      pip install -r requirements.txt
      ```
-   - Or install main dependencies:
-     ```bash
-     pip install gradio transformers datasets torch pillow langchain chromadb huggingface-hub sentence-transformers
-     ```
-   - Optional (4-bit quantization on compatible GPUs):
-     ```bash
-     pip install bitsandbytes
-     ```
 
 3. (Optional) Install a specific torch build for your CUDA version. See https://pytorch.org.
 
