@@ -1,0 +1,15 @@
+gradio==4.10.0
+torch
+transformers
+datasets
+pandas
+Pillow
+langchain
+langchain-community
+chromadb
+sentence-transformers
+pypdf
+bitsandbytes
+accelerate
+huggingface-hub
+langchain_text_splitters
